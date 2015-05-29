@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertFileEncoding", "ConvertFileEncoding\ConvertFileEncoding.csproj", "{68782044-8DCA-4C2C-B508-5157F6987679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIConvertEncoding", "UIConvertEncoding\UIConvertEncoding.csproj", "{234D932F-C0C4-40DE-9FD9-CC7225F92583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68782044-8DCA-4C2C-B508-5157F6987679}.Debug|x86.ActiveCfg = Debug|x86
+		{68782044-8DCA-4C2C-B508-5157F6987679}.Debug|x86.Build.0 = Debug|x86
+		{68782044-8DCA-4C2C-B508-5157F6987679}.Release|x86.ActiveCfg = Release|x86
+		{68782044-8DCA-4C2C-B508-5157F6987679}.Release|x86.Build.0 = Release|x86
+		{234D932F-C0C4-40DE-9FD9-CC7225F92583}.Debug|x86.ActiveCfg = Debug|x86
+		{234D932F-C0C4-40DE-9FD9-CC7225F92583}.Debug|x86.Build.0 = Debug|x86
+		{234D932F-C0C4-40DE-9FD9-CC7225F92583}.Release|x86.ActiveCfg = Release|x86
+		{234D932F-C0C4-40DE-9FD9-CC7225F92583}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
